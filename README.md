@@ -1,5 +1,6 @@
 # methylone666-SAFE-GDI
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/032ceb85-6986-4f10-ba11-db37575fd8b5)
+
 
 methylone666 - a powerful destructive C# malware thats different from the others. a long lasting payload over 6 minutes with cool visual effects, (SAFE VERISON ALL VISUAL EFFECTS)
 
